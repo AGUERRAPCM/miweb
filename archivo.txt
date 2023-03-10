@@ -12,3 +12,6 @@ M archivo modificado
 A archivo nueva y que se va a Agregar
 
 git commit -m "comentario"
+
+cambio en archivo.txt
+5555555555555555555555555555555
