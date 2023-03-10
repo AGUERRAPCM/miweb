@@ -1,3 +1,5 @@
 mi segundo programa - chanchito triste
 se encuentra en STAGE, ya se indico git add archivo2.txt
 
+ya se realizo el commit
+Modificando nuevamente
