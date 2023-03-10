@@ -24,4 +24,6 @@ git log -> muestar de forma fea y desorodenaada todos los cambios
 git log --oneline  -> muestra algo mas ordenado
 
 // Creadno ramas - branchs
+git branch -> para saber en que rama estamos trbajandop
 
+git checkout -b nombreRama -> para crear una nueva rama y ubicars en ella.
