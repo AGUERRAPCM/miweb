@@ -15,3 +15,13 @@ git commit -m "comentario"
 
 cambio en archivo.txt
 5555555555555555555555555555555
+
+
+
+git log -> muestar de forma fea y desorodenaada todos los cambios
+
+
+git log --oneline  -> muestra algo mas ordenado
+
+// Creadno ramas - branchs
+
