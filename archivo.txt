@@ -35,3 +35,7 @@ git merge nuevaRama -> se mezclan las ramas
 git remote add origin https://github.com/aguerrapcm/miweb.git
 
 git push -u origin master
+
+
+
+git checkout -b ramaC
