@@ -2,3 +2,9 @@ mi primer programa - chanchito feliz
 
 // IGNORAR ARCHIVOS
 
+crear carpeta .gitignore y darle add y commit
+
+
+
+git status -s   
+muestra los archivos y su estado.
