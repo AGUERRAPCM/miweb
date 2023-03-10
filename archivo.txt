@@ -10,3 +10,5 @@ git status -s
 muestra los archivos y su estado.
 M archivo modificado
 A archivo nueva y que se va a Agregar
+
+git commit -m "comentario"
