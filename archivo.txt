@@ -29,3 +29,5 @@ git branch -> para saber en que rama estamos trbajandop
 git checkout -b nombreRama -> para crear una nueva rama y ubicars en ella.
 
 git checkout nombreRama -> para ubicarse n la rama
+
+git merge nuevaRama -> se mezclan las ramas
